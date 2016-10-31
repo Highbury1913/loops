@@ -1,5 +1,3 @@
-var number = 0;
-while(number <1000){
+for (var number = 0; number <= 1000; number ++){
 	console.log(number);
-	number = number + 2;
 }
